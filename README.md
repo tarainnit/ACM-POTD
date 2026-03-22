@@ -42,7 +42,7 @@ No overthinking. Just showing up daily.
 
 Day    | Status [⏳ → ✅/❌]
 ------ | ------
-Day 01 | ⏳
+Day 01 | ✅
 Day 02 | ⏳
 Day 04 | ⏳
 Day 05 | ⏳
