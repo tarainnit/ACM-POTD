@@ -1,4 +1,4 @@
-# Day 02 - Best Time to Buy and Sell Stock
+# Day 03 - Best Time to Buy and Sell Stock
 
 ## Problem
 
