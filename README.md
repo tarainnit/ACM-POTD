@@ -53,6 +53,7 @@ Day 08 | ✅
 Day 09 | ❌
 Day 10 | ❌
 Day 11 | ✅
+Day 12 | ✅
 
 (to be continued...)
 
